@@ -1,0 +1,38 @@
+[ 2013-03-23T22:37:59+08:00 ] ERR: (ThinkException) 模板不存在[D:/xampp/htdocs/maomobile/admin/Tpl/Index/User/login.html]
+[ 2013-03-23T22:37:59+08:00 ] 0.0.0.0 /maomobile/admin/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+INFO: [ view_template ] --START--
+NOTIC: [8] Undefined index: class D:\xampp\htdocs\maomobile\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type D:\xampp\htdocs\maomobile\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: class D:\xampp\htdocs\maomobile\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type D:\xampp\htdocs\maomobile\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: file D:\xampp\htdocs\maomobile\ThinkPHP\Lib\Core\ThinkException.class.php 第 62 行.
+NOTIC: [8] Undefined index: line D:\xampp\htdocs\maomobile\ThinkPHP\Lib\Core\ThinkException.class.php 第 62 行.
+NOTIC: [4096] Object of class IndexAction could not be converted to string D:\xampp\htdocs\maomobile\ThinkPHP\Lib\Core\ThinkException.class.php 第 64 行.
+NOTIC: [8] Undefined index: class D:\xampp\htdocs\maomobile\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type D:\xampp\htdocs\maomobile\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: class D:\xampp\htdocs\maomobile\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+NOTIC: [8] Undefined index: type D:\xampp\htdocs\maomobile\ThinkPHP\Lib\Core\ThinkException.class.php 第 63 行.
+
+[ 2013-03-23T22:38:54+08:00 ] 0.0.0.0 /maomobile/admin/
+INFO: [ app_begin ] --START--
+INFO: Run ReadHtmlCache Behavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001408s ]
+INFO: [ view_template ] --START--
+INFO: Run LocationTemplate Behavior [ RunTime:0.002069s ]
+INFO: [ view_template ] --END-- [ RunTime:0.002152s ]
+INFO: [ view_parse ] --START--
+INFO: Run ParseTemplate Behavior [ RunTime:0.011678s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011758s ]
+INFO: [ view_filter ] --START--
+INFO: Run ContentReplace Behavior [ RunTime:0.001000s ]
+INFO: Run TokenBuild Behavior [ RunTime:0.000859s ]
+INFO: Run WriteHtmlCache Behavior [ RunTime:0.000727s ]
+INFO: Run ShowRuntime Behavior [ RunTime:0.000949s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003731s ]
+INFO: [ view_end ] --START--
+INFO: Run ShowPageTrace Behavior [ RunTime:0.001238s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001305s ]
+
